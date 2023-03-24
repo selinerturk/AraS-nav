@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Verilen-Alınan Göçler ve Yaş Grupları"
 author: 
-  - İsim Soyisim[^1]
+  - Selin Ertürk[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
