@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası
+[^1]: 21080351
 
 # Giriş
 Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
@@ -41,7 +41,10 @@ Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturul
 Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir. Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+ Göç savaş, hastalık, ekonomik buhran, toplum düzeni bozulması gibi durumlarda bireylerin, ailelerin ya da
+toplumların bulundukları bölgeyi terk ederek yeni bir yaşam alanına taşınması durumudur.Göçleri iç ve dış göç olmak üzere iki başlıkta ele alırız. İç göç doğal afetler, nüfus ve yatırımlarda dengesiz dağılım, iş imkanları gibi etkilerle gerçekleşir.Dış göçe etki eden önemli sebepler ise baskı, zulüm, ekonomik krizler gibi hayatı uzun dönemde önemli derecede etkileyecek sorunlardır.Bununla birlikte dış göçte beyin göçü de önemli bir paya sahiptir.Eğitim için yurdun terkedilmesinin nedeni yurt dışının daha avantajlı fırsatlar sunmasıdır.Bu da temelde ülkenin bazı konularda diğer ülkelerden geri kaldığının göstergesidir.Yani özetle ülkenin bulunduğu şartların kötü durumda olması,diğer ülkelerden geride kalmış olması göçlerin ana sebebidir.
+ Verilen göçlerin fazlalığı o ülkenin durumu için iyi sinyaller vermezken alınan göçlerin fazlalığı ülkenin durumu için iyi sinyaller sunar.Bu durumdan yola çıkarak verilen göçlerin alınan göçten fazla olması ülkenin durumunda iyileştirilmesi gereken durumlar olduğu sonucunu doğurur.Ülke nüfusunun azalarak dış ülklerden gelen nüfusun artması da siyasi ve politik alanlarda da sonuç doğuracaktır.Yani her durumda göçler ülkeler için çok önemli bir inceleme alanıdır.
+ Çalışmamda incelemek istediğim durum ise bu durumun hangi etkenlerle etkileşimde olduğudur.Veri setim verilen ve alınan göçlerin yaş gruplarına göre düzeyini gösteriyor.Yanıtlamaka istediğim sorular ;verilen göçler alınan göçleri etkiler mi, yaş gruplarına göre verilen göçler diğer yaş grupları üzerinde belirleyici midir,hangi yaş grupları göçlerde daha etkilidir, hangi yaş grupları ülkenin durumlarından daha fazla etkilenir.
 
 ## Literatür 
 Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az altı** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
